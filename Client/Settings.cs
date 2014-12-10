@@ -34,6 +34,7 @@ namespace DarkMultiPlayer
         private string backupPublicKeyFile;
         private string backupPrivateKeyFile;
         public bool compressionEnabled;
+        public string loadedLanguage;
 
         public static Settings fetch
         {
